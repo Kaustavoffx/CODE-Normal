@@ -1,4 +1,4 @@
-
+#pattern6
 n=5
 sp=round(n/2)*2
 for r in range (0,n,2):

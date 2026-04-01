@@ -1,3 +1,4 @@
+#pattern8
 n=1
 for r in range (6):
     print(n)

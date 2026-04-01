@@ -1,3 +1,4 @@
+#pattern9
 n = 3 # Top half + middle = 3 lines
 sp = n - 1
 
