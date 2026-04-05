@@ -10,3 +10,12 @@ print(f"""Addition: {add}
 Substraction: {sub}
 Multiplication: {mul}
 Division: {div}""")
+
+
+#Output
+# Enter first number: 56
+# Enter second number: 55.5
+# Addition: 111.5
+# Substraction: 0.5
+# Multiplication: 3108.0
+# Division: 1.009009009009009

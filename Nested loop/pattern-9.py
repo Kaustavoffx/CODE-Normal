@@ -20,3 +20,11 @@ for r in range(n - 1, 0, -1):
         print('*', end=' ')
     sp += 1
     print()
+
+
+#output
+#   * 
+#  * *
+# * * *
+#  * *
+#   *
